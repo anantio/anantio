@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anant</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 💬 Ask me about **react, webGL and gsap**
+- 💬 Ask me about ** javascipt, reactjs, nextjs, webGL and gsap**
 
 - 📫 How to reach me **ananttomer.4@gmail.com**
 
